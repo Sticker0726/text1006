@@ -5,3 +5,11 @@
 
 def f:
 	return 8
+
+	
+#新增加功能
+
+def 游戏:
+	return游戏
+	
+
