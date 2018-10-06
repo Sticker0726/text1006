@@ -16,6 +16,7 @@ def 游戏:
 #在dev分支上写的功能
 
 def 娱乐
+	return娱乐
 
 	
 
