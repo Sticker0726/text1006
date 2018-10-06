@@ -10,6 +10,7 @@ def f:
 #新增加功能
 
 def 游戏:
-	return游戏
+	return游戏新修改
+	
 	
 
